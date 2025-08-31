@@ -69,8 +69,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/prashantdhruw-ecommerce-springboot-react.git
-    cd prashantdhruw-ecommerce-springboot-react
+    git@github.com:your-username/eCommerce-Springboot-React.git
+    cd eCommerce-Springboot-React
     ```
 
 2.  **Run the Backend (Spring Boot):**
