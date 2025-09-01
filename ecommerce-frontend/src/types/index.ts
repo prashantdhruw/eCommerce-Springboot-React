@@ -4,6 +4,7 @@ export interface User {
   email: string;
   firstName: string;
   lastName: string;
+  role: string;
 }
 
 export interface Category {
@@ -100,6 +101,7 @@ export interface JwtResponse {
   email: string;
   firstName: string;
   lastName: string;
+  role: string;
 }
 
 export interface OrderRequest {

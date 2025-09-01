@@ -51,6 +51,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
         email: response.email,
         firstName: response.firstName,
         lastName: response.lastName,
+        role: response.role,
       };
 
       setToken(response.token);
